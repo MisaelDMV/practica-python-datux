@@ -44,7 +44,6 @@ numero= input("Ingrese un número que no sea decimal: ")
 parteDecimal = float(numero)
 parteEntera = int(parteDecimal)
 
-
 if parteDecimal == parteEntera:
    resultado=parteEntera*(parteEntera+1)//2
    print(f"El valor de la suma de 1 hasta su número ingresado es {resultado}")
