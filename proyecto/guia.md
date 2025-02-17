@@ -1,0 +1,1 @@
+pip install rich pip install pandas export pip install xlrd pip install openpyxl
